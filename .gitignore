@@ -1,0 +1,10 @@
+.env
+projects/*/.env
+*.log
+.vagrant/
+.terraform/
+*.tfstate*
+node_modules/
+dist/
+backups/
+kubeconfig-*
